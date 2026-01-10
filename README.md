@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="Screenshot 2026-01-10 175026.png"  />
+  <img height="200" src="Screenshot 2026-01-10 175026.png" style="width:100%; height: 500px ;" />
 </div>
 
 ###
