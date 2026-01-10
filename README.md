@@ -2,12 +2,14 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left" style="background-color: #fff; color: blue;">My name is ... and I'm a ..., from ....</p>
 
 ###
 
-<div align="center">
+<div align="center" style="background-color: #fff;">
   <img height="200" src="Screenshot 2026-01-10 175026.png" style="width:100%; height: 500px ;" />
+  kokods
+  <P>momoamoooooooooooooooooooooloe</P>
 </div>
 
 ###
