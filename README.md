@@ -1,12 +1,12 @@
-<div align="center" style="background-color:#000; height:100px; padding:25px; border-radius:10px;">
-  <p style="color:#fff; font-size:28px; line-height:1.6;">السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ</p>
+<div align="center" style="background-color:#000; width:25%; height:100px; padding:25px; border-radius:10px;">
+  <h1>السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ</h1>
 </div>
 
 ###
 
 <div align="center" style="background-color: #fff;">
-  <p style="color:#1a73e8; font-weight:bold;">اسمي: مُحَمَّدٌ حَسَنٌ</p>
-  <img align="center" height="200" src="jihaded.png" style="width:100%; height: 200px ;" />
+  <p style="color:#1a73e8; font-weight:bold;">الاسْمُ</p>
+  <img align="center" height="200" src="jihaded.png" style="width:55%; height:100%" />
 </div>
 
 ###
