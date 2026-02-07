@@ -1,5 +1,5 @@
 <div align="center" style="background-color:#000; width:25%; height:100px; padding:25px; border-radius:10px;">
-  <p>السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ</p>
+  <h2>السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ</h2>
 </div>
 
 ###
