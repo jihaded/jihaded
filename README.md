@@ -1,25 +1,35 @@
-<div align="center" style="background-color:#000; width:25%; height:100px; padding:25px; border-radius:10px;">
-  <h2>السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ</h2>
-</div>
+<div class="plain"><pre style="white-space: pre-wrap"># السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ &lt;3
+==================
 
-###
+<p align="">التَّعْرِيف، مَنْ أنا؟</p>
+<p align="">مُطوِّرُ جافا سكربت أعملُ على بناءِ تطبيقاتِ ويب عملية وقابلةٍ للتوسّع بإذنِ اللهِ.</p>
+<p style="color:#1a73e8; font-weight:bold;">الاسْمُ</p>
+<img align="center" height="200" src="jihaded.png" style="width:55%; height:100%" />
 
-<div align="center" style="background-color: #fff;">
-  <p style="color:#1a73e8; font-weight:bold;">الاسْمُ</p>
-  <img align="center" height="200" src="jihaded.png" style="width:55%; height:100%" />
-</div>
 
-###
+---------------
+Connect With Me
 
-<p align="center">التَّعْرِيف، مَنْ أنا؟</p>
-<p align="center">مُطوِّرُ جافا سكربت أعملُ على بناءِ تطبيقاتِ ويب عملية وقابلةٍ للتوسّع بإذنِ اللهِ.</p>
+» X / Twitter   → <a href="https://x.com/" rel="nofollow">https://x.com/</a>
+» Portfolio     → <a href="https://" rel="nofollow">https://....</a>
+» LinkedIn      → <a href="https://www.linkedin.com/in" rel="nofollow">https://www....</a>
+» Email         → test@test.com
+
+--------------
+Skills &amp; Tools
+
+» Backend:      php, ..
+» Frontend:     React, JavaScript, TypeScript, HTML5, CSS3
+» Databases:    ..,..,..
+» DevOps:       Git, ...
+
+--------------
 
 <br/>
-<p align="center" width="50">مَهاراتي</p>
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,bootstrap,git,xd" width="400"/>
+<p align="" width="50">مَهاراتي</p>
+<div align="">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,bootstrap,git,xd" width="300"/>
 </div>
 
-###
+--------------
+</pre></div>
