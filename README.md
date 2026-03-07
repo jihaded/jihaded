@@ -1,4 +1,4 @@
-<div class="plain"><pre style="white-space: pre-wrap"># السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ &lt;3
+<div class="plain"><code style="white-space: pre-wrap"># السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ &lt;3
 ==================
 
 <p align="">التَّعْرِيف، مَنْ أنا؟</p>
@@ -26,10 +26,10 @@ Skills &amp; Tools
 --------------
 
 <br/>
-<p align="" width="50">مَهاراتي</p>
+<p align="" width="">مَهاراتي</p>
 <div align="">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,bootstrap,git,xd" width="300"/>
 </div>
 
 --------------
-</pre></div>
+</code></div>
