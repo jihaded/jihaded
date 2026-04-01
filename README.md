@@ -1,9 +1,7 @@
-<div class=""><code>>> <h1>
+<div class=""><code>
 السَّلامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ، مَنْ أنا؟
 مُطوِّرُ برمجيات أعملُ على بناءِ تطبيقاتِ ويب عملية وقابلةٍ للتوسّع بإذنِ اللهِ. الاسْمُ : مُحمَّدْ حَسَنْ
-</h1>
-
-
+  
 ---------------
 Connect With Me
 
@@ -12,7 +10,6 @@ Connect With Me
 » LinkedIn      → <a href="https://www.linkedin.com/in" rel="nofollow">https://www....</a>
 » Email         → test@test.com
 
---------------
 Skills &amp; Tools
 
 » Backend:      php, ..
@@ -20,14 +17,5 @@ Skills &amp; Tools
 » Databases:    ..,..,..
 » DevOps:       Git, ...
 
---------------
 
-<br/>
-<p align="" width="">مَهاراتي</p>
-<div align="">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,bootstrap,git,xd" width="300"/>
-</div>
-
---------------
-
-</code></div>
+</code>
